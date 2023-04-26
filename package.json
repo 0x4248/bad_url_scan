@@ -1,0 +1,26 @@
+{
+  "name": "bad_url_scan",
+  "version": "1.0.0",
+  "description": "A simple bad URL scanner for JavaScript",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesomelewis2007/bad_url_scan.git"
+  },
+  "keywords": [
+    "url",
+    "security"
+  ],
+  "author": "Lewis Evans",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/awesomelewis2007/bad_url_scan/issues"
+  },
+  "homepage": "https://github.com/awesomelewis2007/bad_url_scan#readme"
+}
