@@ -3,7 +3,7 @@
  * Github: https://github.com/awesomelewis2007/bad_url_scan
  * Licence: GPL-3.0
  * By: Lewis Evans
-*/
+ */
 
 const scan = require("../lib/index.js");
 
