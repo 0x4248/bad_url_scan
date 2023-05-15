@@ -2,6 +2,8 @@
 
 A simple bad URL scanner for JavaScript
 
+This firewall has over 50 bad URLs that are commonly used in attacks.
+
 ## Installation
 
 ```bash
