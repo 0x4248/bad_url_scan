@@ -45,4 +45,4 @@ scan("https://example.com/admin", ["results/database"]); // Returns true
 
 ## License
 
-This project is lincenced under GPL-3.0. See [LICENSE](LICENSE) for more information.
+This project is lincenced under GPL-3.0. See [LICENCE](LICENCE) for more information.
