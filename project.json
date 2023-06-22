@@ -1,7 +1,7 @@
 {
     "name": "bad_url_scan",
     "description": "A simple bad URL scanner for JavaScript",
-    "version": "1.0",
+    "version": "",
     "main_file": "lib/index.js",
     "author": "Lewis Evans",
     "license": "GNU General Public License v3.0",
