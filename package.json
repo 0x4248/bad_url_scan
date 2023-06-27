@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/awesomelewis2007/bad_url_scan.git"
+    "url": "git+https://github.com/lewisevans2007/bad_url_scan.git"
   },
   "keywords": [
     "url",
@@ -20,7 +20,7 @@
   "author": "Lewis Evans",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/awesomelewis2007/bad_url_scan/issues"
+    "url": "https://github.com/lewisevans2007/bad_url_scan/issues"
   },
-  "homepage": "https://github.com/awesomelewis2007/bad_url_scan#readme"
+  "homepage": "https://github.com/lewisevans2007/bad_url_scan#readme"
 }

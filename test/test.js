@@ -1,6 +1,6 @@
 /* Bad_URL_Scan (Tests)
  * A simple bad URL scanner for JavaScript
- * Github: https://github.com/awesomelewis2007/bad_url_scan
+ * Github: https://github.com/lewisevans2007/bad_url_scan
  * Licence: GNU General Public License v3.0
  * By: Lewis Evans
  */
