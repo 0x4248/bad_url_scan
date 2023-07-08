@@ -43,6 +43,6 @@ scan("https://example.com/results/database", ["results/database"]); // Returns f
 scan("https://example.com/admin", ["results/database"]); // Returns true
 ```
 
-## License
+## Licence
 
 This project is licenced under GPL-3.0. See [LICENCE](LICENCE) for more information.
