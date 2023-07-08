@@ -1,6 +1,6 @@
 {
   "name": "bad_url_scan",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "A simple bad URL scanner for JavaScript",
   "main": "lib/index.js",
   "directories": {
