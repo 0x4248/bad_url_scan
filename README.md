@@ -20,6 +20,7 @@ scan("https://example.com/admin"); // Returns true
 scan("https://example.com/blogs/my_trip.html"); // Returns false
 ````
 
+## Example usage
 
 Here is an example of a web server that uses this package to scan URLs:
 
@@ -45,4 +46,4 @@ scan("https://example.com/admin", ["results/database"]); // Returns true
 
 ## Licence
 
-This project is licenced under GPL-3.0. See [LICENCE](LICENCE) for more information.
+This project is licenced under GNU General Public Licence Version 3.0. See [LICENCE](LICENCE) for more information.
