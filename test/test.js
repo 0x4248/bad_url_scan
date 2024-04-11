@@ -1,8 +1,8 @@
 /* Bad_URL_Scan (Tests)
  * A simple bad URL scanner for JavaScript
- * Github: https://github.com/lewisevans2007/bad_url_scan
+ * Github: https://github.com/0x4248/bad_url_scan
  * Licence: GNU General Public License v3.0
- * By: Lewis Evans
+ * By: 0x4248
  */
 
 const scan = require("../lib/index.js");

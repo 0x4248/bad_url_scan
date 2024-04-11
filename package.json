@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lewisevans2007/bad_url_scan.git"
+    "url": "git+https://github.com/0x4248/bad_url_scan.git"
   },
   "keywords": [
     "url",
     "security"
   ],
-  "author": "Lewis Evans",
+  "author": "0x4248",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/lewisevans2007/bad_url_scan/issues"
+    "url": "https://github.com/0x4248/bad_url_scan/issues"
   },
-  "homepage": "https://github.com/lewisevans2007/bad_url_scan#readme"
+  "homepage": "https://github.com/0x4248/bad_url_scan#readme"
 }
